@@ -1,0 +1,34 @@
+body {
+  background-color: #f2ebe3;
+}
+
+h3,
+h2 {
+  font-family: "Fraunces", serif;
+}
+
+h2 {
+  color: #3c8067 !important;
+}
+
+span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: lighter !important;
+  color: grey;
+}
+
+h6,
+p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: lighter !important;
+  color: gray;
+}
+
+h6 {
+  font-size: x-small;
+  letter-spacing: 4px;
+}
+
+p {
+  font-size: 14px;
+}
